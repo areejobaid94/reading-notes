@@ -2,7 +2,7 @@
 
 ##  Links:
 
-!()[https://weblog.west-wind.com/images/2019/Non-Navigating-Links-for-JavaScript-Handling/EmptyHref.png]
+![](https://weblog.west-wind.com/images/2019/Non-Navigating-Links-for-JavaScript-Handling/EmptyHref.png)
 
 ### HTML links are hyperlinks.
 ### You can click on a link and jump to another document.
