@@ -12,7 +12,7 @@
 | 2. | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Link](https://areejobaid94.github.io/reading-notes/class-02) |
 | 3. | HTML Lists, Control Flow with JS, and the CSS Box Model | [Link](https://areejobaid94.github.io/reading-notes/class-03) |
 | 4. |HTML Links, JS Functions, and Intro to CSS Layout | [Link](https://areejobaid94.github.io/reading-notes/class-04) | 
-| 5. |           |                     | 
+| 5. | HTML Images; CSS Color & Text | [Link](https://areejobaid94.github.io/reading-notes/class-05) | 
 | 6. |           |                     | 
 | 7. |           |                     | 
 | 8. |           |                     | 
