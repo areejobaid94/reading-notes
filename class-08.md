@@ -2,7 +2,7 @@
 
 ### The position Property:
 
-!()[https://www.csssolid.com/images/csspositions/css-position-all.png]
+![](https://www.csssolid.com/images/csspositions/css-position-all.png)
 
 ### The position property specifies the type of positioning method used for an element (static, relative, fixed, absolute or sticky).
 
