@@ -15,7 +15,7 @@
 | 5. | HTML Images; CSS Color & Text | [Link](https://areejobaid94.github.io/reading-notes/class-05) | 
 | 6. | Object Literals; The DOM | [Link](https://areejobaid94.github.io/reading-notes/class-06) |
 | 7. | Object-Oriented Programming, HTML Tables| [Link](https://areejobaid94.github.io/reading-notes/class-07) | 
-| 8. |           |                     | 
+| 8. | Layout | [Link](https://areejobaid94.github.io/reading-notes/class-08)| 
 | 9. |           |                     | 
 | 10. |           |                     | 
 | 11. |           |                     | 
