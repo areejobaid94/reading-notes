@@ -45,8 +45,22 @@ div {
     float: right;
 ```
 
+### left: The element must float on the left side of its containing block.
+
+#### right: The element must float on the right side of its containing block.
+
+#### none: The element must not float.
+
+#### inline-start: The element must float on the start side of its containing block. That is the left side with ltr scripts, and the right side with rtl scripts.
+
+#### inline-end: The element must float on the end side of its containing block. That is the right side with ltr scripts, and the left side with rtl scripts.
+
 ### width
 #### This sets the width of the columns.
 
 ### margin
 #### This creates a gap between the columns.
+
+### CSS Frameworks:
+
+#### CSS frameworks aim to make your life easier by providing the code for common tasks, such as creating layout grids, styling forms, creating printer-friendly versions of pages and so on. You can include the CSS framework code in your projects rather than writing the CSS from scratch.
