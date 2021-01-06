@@ -16,8 +16,8 @@
 | 6. | Object Literals; The DOM | [Link](https://areejobaid94.github.io/reading-notes/class-06) |
 | 7. | Object-Oriented Programming, HTML Tables| [Link](https://areejobaid94.github.io/reading-notes/class-07) | 
 | 8. | Layout | [Link](https://areejobaid94.github.io/reading-notes/class-08)| 
-| 9. | Forms and JS Events |  [Link](https://areejobaid94.github.io/reading-notes/class-09) | 
-| 10. |           |                     | 
+| 9. | Forms and JS Events | [Link](https://areejobaid94.github.io/reading-notes/class-09) | 
+| 10. | Error Handling & Debugging | [Link](https://areejobaid94.github.io/reading-notes/class-10) | 
 | 11. |           |                     | 
 | 12. |           |                     | 
 | 13. |           |                     | 
