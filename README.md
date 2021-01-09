@@ -18,7 +18,7 @@
 | 8. | Layout | [Link](https://areejobaid94.github.io/reading-notes/class-08)| 
 | 9. | Forms and JS Events | [Link](https://areejobaid94.github.io/reading-notes/class-09) | 
 | 10. | Error Handling & Debugging | [Link](https://areejobaid94.github.io/reading-notes/class-10) | 
-| 11. |           |                     | 
+| 11. | Audio, Video, Images | [Link](https://areejobaid94.github.io/reading-notes/class-11) | 
 | 12. |           |                     | 
 | 13. |           |                     | 
 | 14. |           |                     | 
