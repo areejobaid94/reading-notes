@@ -1,8 +1,12 @@
 # Chart.js, Canvas
 
+![](https://www.bypeople.com/wp-content/uploads/2020/02/javascript-chart-js.png)
+
 ## Chart.js
 
 #### `<canvas>`: use to render the chart.
+
+![](https://i2.wp.com/lenadesign.org/wp-content/uploads/2020/01/canvas.jpg?resize=580%2C435&ssl=1)
 
 #### `<canvas>` looks like the <img> element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the <canvas> element has only two attributes, width and height. 
 
@@ -102,3 +106,22 @@ function draw() {
    Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
 * strokeText(text, x, y [, maxWidth])
   Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
+
+### Styling text
+
+* font = value
+  The current text style being used when drawing text. This string uses the same syntax as the CSS font property. The default font is 10px sans-serif.
+* textAlign = value
+ Text alignment setting. Possible values: start, end, left, right or center. The default value is start.
+* textBaseline = value
+  Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, ideographic, bottom. The default value is alphabetic.
+* direction = value
+  Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
+  These properties might be familiar to you, if you have worked with CSS before.
+
+### Example:
+```
+ctx.font = '48px serif';
+ctx.textBaseline = 'hanging';
+ctx.strokeText('Hello world', 0, 100);
+```
