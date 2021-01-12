@@ -21,7 +21,8 @@
 | 11. | Audio, Video, Images | [Link](https://areejobaid94.github.io/reading-notes/class-11) | 
 | 12. | Chart.js, Canvas | [Link](https://areejobaid94.github.io/reading-notes/class-12) | 
 | 13. | local storage, cookie and session | [Link](https://areejobaid94.github.io/reading-notes/class-13) | 
-| 14a. |           |                     | 
+| 14a. | Transforms, Transitions, Animations| [Link](https://areejobaid94.github.io/reading-notes/class-14a) | 
+| 14b. | What Google Learned From Its Quest to Build the Perfect Team | [Link](https://areejobaid94.github.io/reading-notes/class-14b) | 
 | 15. |           |                     | 
 
 ### Contact info:
