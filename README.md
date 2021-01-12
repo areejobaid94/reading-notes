@@ -21,7 +21,7 @@
 | 11. | Audio, Video, Images | [Link](https://areejobaid94.github.io/reading-notes/class-11) | 
 | 12. | Chart.js, Canvas | [Link](https://areejobaid94.github.io/reading-notes/class-12) | 
 | 13. | local storage, cookie and session | [Link](https://areejobaid94.github.io/reading-notes/class-13) | 
-| 14. |           |                     | 
+| 14a. |           |                     | 
 | 15. |           |                     | 
 
 ### Contact info:
