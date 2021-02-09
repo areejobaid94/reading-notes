@@ -2,9 +2,15 @@
 
 ![alt text](https://www.impactplus.com/hubfs/17-award-winning-website-designs-02.jpg)
 
-# Code 201 Reading Notes
+# Reading Notes
 
-## The contents of this website
+### This web site is My Reading Notes
+
+## * Code 102 - Intro to Software Development.
+
+
+## * Code 201 - Foundations of Software Development
+
 
 | nom | Page Name |The Link Of the Page |
 | --- | --------- | ------------------- |
@@ -24,6 +30,11 @@
 | 14a. | Transforms, Transitions, Animations| [Link](https://areejobaid94.github.io/reading-notes/class-14a) | 
 | 14b. | What Google Learned From Its Quest to Build the Perfect Team | [Link](https://areejobaid94.github.io/reading-notes/class-14b) | 
 | 15. |           |                     | 
+
+
+## * Code 301 - Intermediate Software Development
+
+## * Code 401 - Advanced Software Development
 
 ### Contact info:
 
