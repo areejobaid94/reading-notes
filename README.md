@@ -1,9 +1,10 @@
-# reading-notes-past# WELCOME To AREEJ'S WEBSITE
+# Reading Notes
+
+# WELCOME To AREEJ'S Reading Notes
 
 ![alt text](https://www.impactplus.com/hubfs/17-award-winning-website-designs-02.jpg)
 
-# Reading Notes
-
+#### Description:
 ### This web site is My Reading Notes
 
 ## * Code 102 - Intro to Software Development.
