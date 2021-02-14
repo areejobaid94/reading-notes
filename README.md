@@ -38,7 +38,7 @@
 | nom | Page Name |The Link Of the Page |
 | --- | --------- | ------------------- |
 | 1. | RESPONSIVE WEB DESIGN and FLOATS | [Link](https://areejobaid94.github.io/reading-notes/301-01) | 
-| 2. |  |  |
+| 2. | jQuery, Events, and The DOM | [Link](https://areejobaid94.github.io/reading-notes/301-02) |
 | 3. |  |  |
 | 4. |  |  | 
 | 5. |  |  |
