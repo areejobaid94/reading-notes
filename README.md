@@ -39,7 +39,7 @@
 | --- | --------- | ------------------- |
 | 1. | RESPONSIVE WEB DESIGN and FLOATS | [Link](https://areejobaid94.github.io/reading-notes/301-01) | 
 | 2. | jQuery, Events, and The DOM | [Link](https://areejobaid94.github.io/reading-notes/301-02) |
-| 3. |  |  |
+| 3. | Flexbox and Templating |  [Link](https://areejobaid94.github.io/reading-notes/301-03)  |
 | 4. |  |  | 
 | 5. |  |  |
 
