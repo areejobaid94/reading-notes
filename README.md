@@ -41,7 +41,7 @@
 | 2. | jQuery, Events, and The DOM | [Link](https://areejobaid94.github.io/reading-notes/301-02) |
 | 3. | Flexbox and Templating |  [Link](https://areejobaid94.github.io/reading-notes/301-03)  |
 | 4. |  Responsive Web Design and Regular Expressions | [Link](https://areejobaid94.github.io/reading-notes/301-04) | 
-| 5. |  |  |
+| 5. | HEROKU  | [Link](https://areejobaid94.github.io/reading-notes/301-05) |
 
 
 ## * Code 401 - Advanced Software Development
