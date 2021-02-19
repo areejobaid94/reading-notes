@@ -42,6 +42,7 @@
 | 3. | Flexbox and Templating |  [Link](https://areejobaid94.github.io/reading-notes/301-03)  |
 | 4. |  Responsive Web Design and Regular Expressions | [Link](https://areejobaid94.github.io/reading-notes/301-04) | 
 | 5. | HEROKU  | [Link](https://areejobaid94.github.io/reading-notes/301-05) |
+| 6. | NODE.JS  | [Link](https://areejobaid94.github.io/reading-notes/301-06) |
 
 
 ## * Code 401 - Advanced Software Development
