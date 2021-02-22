@@ -44,6 +44,7 @@
 | 5. | HEROKU  | [Link](https://areejobaid94.github.io/reading-notes/301-05) |
 | 6. | NODE.JS  | [Link](https://areejobaid94.github.io/reading-notes/301-06) |
 | 7. | APIs continued | [Link](https://areejobaid94.github.io/reading-notes/301-07) |
+| 8. | SQL | [Link](https://areejobaid94.github.io/reading-notes/301-08) |
 
 ## * Code 401 - Advanced Software Development
 
