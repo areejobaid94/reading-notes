@@ -46,6 +46,8 @@
 | 7. | APIs continued | [Link](https://areejobaid94.github.io/reading-notes/301-07) |
 | 8. | SQL | [Link](https://areejobaid94.github.io/reading-notes/301-08) |
 | 9. | FUNCTIONAL PROGRAMMING | [Link](https://areejobaid94.github.io/reading-notes/301-09) |
+| 10. | The Call Stack and Debugging | [Link](https://areejobaid94.github.io/reading-notes/301-10) |
+
 
 ## * Code 401 - Advanced Software Development
 
