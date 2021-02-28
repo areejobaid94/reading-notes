@@ -48,6 +48,7 @@
 | 9. | FUNCTIONAL PROGRAMMING | [Link](https://areejobaid94.github.io/reading-notes/301-09) |
 | 10. | The Call Stack and Debugging | [Link](https://areejobaid94.github.io/reading-notes/301-10) |
 | 11. | EJS | [Link](https://areejobaid94.github.io/reading-notes/301-11) |
+| 12. |  EJS PARTIALS | [Link](https://areejobaid94.github.io/reading-notes/301-12) |
 
 
 
