@@ -51,6 +51,8 @@
 | 12. |  EJS PARTIALS | [Link](https://areejobaid94.github.io/reading-notes/301-12) |
 | 13. | SENDING FORM DATA | [Link](https://areejobaid94.github.io/reading-notes/301-13) |
 | 14. | Database Normalization | [Link](https://areejobaid94.github.io/reading-notes/301-14) |
+| 14. | Diversity & Inclusion in the Tech Industry | [Link](https://areejobaid94.github.io/reading-notes/301-15) |
+
 
 ## * Code 401 - Advanced Software Development
 
