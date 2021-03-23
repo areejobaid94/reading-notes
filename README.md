@@ -5,56 +5,86 @@
 ![alt text](https://www.impactplus.com/hubfs/17-award-winning-website-designs-02.jpg)
 
 #### Description:
+
 ### This web site is My Reading Notes
 
-## * Code 102 - Intro to Software Development.
+## \* Code 102 - Intro to Software Development.
 
+## \* Code 201 - Foundations of Software Development
 
-## * Code 201 - Foundations of Software Development
+| nom  | Page Name                                                      | The Link Of the Page                                           |
+| ---- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| 1.   | Introductory HTML and JavaScript                               | [Link](https://areejobaid94.github.io/reading-notes/class-01)  |
+| 2.   | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Link](https://areejobaid94.github.io/reading-notes/class-02)  |
+| 3.   | HTML Lists, Control Flow with JS, and the CSS Box Model        | [Link](https://areejobaid94.github.io/reading-notes/class-03)  |
+| 4.   | HTML Links, JS Functions, and Intro to CSS Layout              | [Link](https://areejobaid94.github.io/reading-notes/class-04)  |
+| 5.   | HTML Images; CSS Color & Text                                  | [Link](https://areejobaid94.github.io/reading-notes/class-05)  |
+| 6.   | Object Literals; The DOM                                       | [Link](https://areejobaid94.github.io/reading-notes/class-06)  |
+| 7.   | Object-Oriented Programming, HTML Tables                       | [Link](https://areejobaid94.github.io/reading-notes/class-07)  |
+| 8.   | Layout                                                         | [Link](https://areejobaid94.github.io/reading-notes/class-08)  |
+| 9.   | Forms and JS Events                                            | [Link](https://areejobaid94.github.io/reading-notes/class-09)  |
+| 10.  | Error Handling & Debugging                                     | [Link](https://areejobaid94.github.io/reading-notes/class-10)  |
+| 11.  | Audio, Video, Images                                           | [Link](https://areejobaid94.github.io/reading-notes/class-11)  |
+| 12.  | Chart.js, Canvas                                               | [Link](https://areejobaid94.github.io/reading-notes/class-12)  |
+| 13.  | local storage, cookie and session                              | [Link](https://areejobaid94.github.io/reading-notes/class-13)  |
+| 14a. | Transforms, Transitions, Animations                            | [Link](https://areejobaid94.github.io/reading-notes/class-14a) |
+| 14b. | What Google Learned From Its Quest to Build the Perfect Team   | [Link](https://areejobaid94.github.io/reading-notes/class-14b) |
+| 15.  |                                                                |                                                                |
 
+## \* Code 301 - Intermediate Software Development
 
-| nom | Page Name |The Link Of the Page |
-| --- | --------- | ------------------- |
-| 1.  | Introductory HTML and JavaScript | [Link](https://areejobaid94.github.io/reading-notes/class-01) | 
-| 2. | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Link](https://areejobaid94.github.io/reading-notes/class-02) |
-| 3. | HTML Lists, Control Flow with JS, and the CSS Box Model | [Link](https://areejobaid94.github.io/reading-notes/class-03) |
-| 4. |HTML Links, JS Functions, and Intro to CSS Layout | [Link](https://areejobaid94.github.io/reading-notes/class-04) | 
-| 5. | HTML Images; CSS Color & Text | [Link](https://areejobaid94.github.io/reading-notes/class-05) | 
-| 6. | Object Literals; The DOM | [Link](https://areejobaid94.github.io/reading-notes/class-06) |
-| 7. | Object-Oriented Programming, HTML Tables| [Link](https://areejobaid94.github.io/reading-notes/class-07) | 
-| 8. | Layout | [Link](https://areejobaid94.github.io/reading-notes/class-08)| 
-| 9. | Forms and JS Events | [Link](https://areejobaid94.github.io/reading-notes/class-09) | 
-| 10. | Error Handling & Debugging | [Link](https://areejobaid94.github.io/reading-notes/class-10) | 
-| 11. | Audio, Video, Images | [Link](https://areejobaid94.github.io/reading-notes/class-11) | 
-| 12. | Chart.js, Canvas | [Link](https://areejobaid94.github.io/reading-notes/class-12) | 
-| 13. | local storage, cookie and session | [Link](https://areejobaid94.github.io/reading-notes/class-13) | 
-| 14a. | Transforms, Transitions, Animations| [Link](https://areejobaid94.github.io/reading-notes/class-14a) | 
-| 14b. | What Google Learned From Its Quest to Build the Perfect Team | [Link](https://areejobaid94.github.io/reading-notes/class-14b) | 
-| 15. |           |                     | 
+| nom | Page Name                                     | The Link Of the Page                                        |
+| --- | --------------------------------------------- | ----------------------------------------------------------- |
+| 1.  | RESPONSIVE WEB DESIGN and FLOATS              | [Link](https://areejobaid94.github.io/reading-notes/301-01) |
+| 2.  | jQuery, Events, and The DOM                   | [Link](https://areejobaid94.github.io/reading-notes/301-02) |
+| 3.  | Flexbox and Templating                        | [Link](https://areejobaid94.github.io/reading-notes/301-03) |
+| 4.  | Responsive Web Design and Regular Expressions | [Link](https://areejobaid94.github.io/reading-notes/301-04) |
+| 5.  | HEROKU                                        | [Link](https://areejobaid94.github.io/reading-notes/301-05) |
+| 6.  | NODE.JS                                       | [Link](https://areejobaid94.github.io/reading-notes/301-06) |
+| 7.  | APIs continued                                | [Link](https://areejobaid94.github.io/reading-notes/301-07) |
+| 8.  | SQL                                           | [Link](https://areejobaid94.github.io/reading-notes/301-08) |
+| 9.  | FUNCTIONAL PROGRAMMING                        | [Link](https://areejobaid94.github.io/reading-notes/301-09) |
+| 10. | The Call Stack and Debugging                  | [Link](https://areejobaid94.github.io/reading-notes/301-10) |
+| 11. | EJS                                           | [Link](https://areejobaid94.github.io/reading-notes/301-11) |
+| 12. | EJS PARTIALS                                  | [Link](https://areejobaid94.github.io/reading-notes/301-12) |
+| 13. | SENDING FORM DATA                             | [Link](https://areejobaid94.github.io/reading-notes/301-13) |
+| 14. | Database Normalization                        | [Link](https://areejobaid94.github.io/reading-notes/301-14) |
+| 14. | Diversity & Inclusion in the Tech Industry    | [Link](https://areejobaid94.github.io/reading-notes/301-15) |
 
+## \* Code 401 - Advanced Software Development
 
-## * Code 301 - Intermediate Software Development
-
-| nom | Page Name |The Link Of the Page |
-| --- | --------- | ------------------- |
-| 1. | RESPONSIVE WEB DESIGN and FLOATS | [Link](https://areejobaid94.github.io/reading-notes/301-01) | 
-| 2. | jQuery, Events, and The DOM | [Link](https://areejobaid94.github.io/reading-notes/301-02) |
-| 3. | Flexbox and Templating |  [Link](https://areejobaid94.github.io/reading-notes/301-03)  |
-| 4. |  Responsive Web Design and Regular Expressions | [Link](https://areejobaid94.github.io/reading-notes/301-04) | 
-| 5. | HEROKU  | [Link](https://areejobaid94.github.io/reading-notes/301-05) |
-| 6. | NODE.JS  | [Link](https://areejobaid94.github.io/reading-notes/301-06) |
-| 7. | APIs continued | [Link](https://areejobaid94.github.io/reading-notes/301-07) |
-| 8. | SQL | [Link](https://areejobaid94.github.io/reading-notes/301-08) |
-| 9. | FUNCTIONAL PROGRAMMING | [Link](https://areejobaid94.github.io/reading-notes/301-09) |
-| 10. | The Call Stack and Debugging | [Link](https://areejobaid94.github.io/reading-notes/301-10) |
-| 11. | EJS | [Link](https://areejobaid94.github.io/reading-notes/301-11) |
-| 12. |  EJS PARTIALS | [Link](https://areejobaid94.github.io/reading-notes/301-12) |
-| 13. | SENDING FORM DATA | [Link](https://areejobaid94.github.io/reading-notes/301-13) |
-| 14. | Database Normalization | [Link](https://areejobaid94.github.io/reading-notes/301-14) |
-| 14. | Diversity & Inclusion in the Tech Industry | [Link](https://areejobaid94.github.io/reading-notes/301-15) |
-
-
-## * Code 401 - Advanced Software Development
+| nom | Page Name | The Link Of the Page |
+| --- | --------- | -------------------- |
+| 1.  |           | [Link]()             |
+| 2.  |           | [Link]()             |
+| 3.  |           | [Link]()             |
+| 4.  |           | [Link]()             |
+| 5.  |           | [Link]()             |
+| 6.  |           | [Link]()             |
+| 7.  |           | [Link]()             |
+| 8.  |           | [Link]()             |
+| 9.  |           | [Link]()             |
+| 10. |           | [Link]()             |
+| 11. |           | [Link]()             |
+| 12. |           | [Link]()             |
+| 13. |           | [Link]()             |
+| 14. |           | [Link]()             |
+| 15. |           | [Link]()             |
+| 16. |           | [Link]()             |
+| 17. |           | [Link]()             |
+| 18. |           | [Link]()             |
+| 19. |           | [Link]()             |
+| 20. |           | [Link]()             |
+| 21. |           | [Link]()             |
+| 22. |           | [Link]()             |
+| 23. |           | [Link]()             |
+| 24. |           | [Link]()             |
+| 25. |           | [Link]()             |
+| 26. |           | [Link]()             |
+| 27. |           | [Link]()             |
+| 28. |           | [Link]()             |
+| 29. |           | [Link]()             |
+| 30. |           | [Link]()             |
 
 ### Contact info:
 
