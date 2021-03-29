@@ -12,7 +12,7 @@
 
 ## \* Code 201 - Foundations of Software Development
 
-| nom  | Page Name                                                      | The Link Of the Page                                           |
+| num  | Page Name                                                      | The Link Of the Page                                           |
 | ---- | -------------------------------------------------------------- | -------------------------------------------------------------- |
 | 1.   | Introductory HTML and JavaScript                               | [Link](https://areejobaid94.github.io/reading-notes/class-01)  |
 | 2.   | HTML Text, CSS Introduction, and Basic JavaScript Instructions | [Link](https://areejobaid94.github.io/reading-notes/class-02)  |
@@ -32,7 +32,7 @@
 
 ## \* Code 301 - Intermediate Software Development
 
-| nom | Page Name                                     | The Link Of the Page                                        |
+| num | Page Name                                     | The Link Of the Page                                        |
 | --- | --------------------------------------------- | ----------------------------------------------------------- |
 | 1.  | RESPONSIVE WEB DESIGN and FLOATS              | [Link](https://areejobaid94.github.io/reading-notes/301-01) |
 | 2.  | jQuery, Events, and The DOM                   | [Link](https://areejobaid94.github.io/reading-notes/301-02) |
@@ -52,38 +52,38 @@
 
 ## \* Code 401 - Advanced Software Development
 
-| nom | Page Name   | The Link Of the Page                                        |
+| num | Page Name   | The Link Of the Page                                        |
 | --- | ----------- | ----------------------------------------------------------- |
-| 1.  | Java Basics | [Link](https://areejobaid94.github.io/reading-notes/401-01) |
-| 2.  |             | [Link]()                                                    |
-| 3.  |             | [Link]()                                                    |
-| 4.  |             | [Link]()                                                    |
-| 5.  |             | [Link]()                                                    |
-| 6.  |             | [Link]()                                                    |
-| 7.  |             | [Link]()                                                    |
-| 8.  |             | [Link]()                                                    |
-| 9.  |             | [Link]()                                                    |
-| 10. |             | [Link]()                                                    |
-| 11. |             | [Link]()                                                    |
-| 12. |             | [Link]()                                                    |
-| 13. |             | [Link]()                                                    |
-| 14. |             | [Link]()                                                    |
-| 15. |             | [Link]()                                                    |
-| 16. |             | [Link]()                                                    |
-| 17. |             | [Link]()                                                    |
-| 18. |             | [Link]()                                                    |
-| 19. |             | [Link]()                                                    |
-| 20. |             | [Link]()                                                    |
-| 21. |             | [Link]()                                                    |
-| 22. |             | [Link]()                                                    |
-| 23. |             | [Link]()                                                    |
-| 24. |             | [Link]()                                                    |
-| 25. |             | [Link]()                                                    |
-| 26. |             | [Link]()                                                    |
-| 27. |             | [Link]()                                                    |
-| 28. |             | [Link]()                                                    |
-| 29. |             | [Link]()                                                    |
-| 30. |             | [Link]()                                                    |
+| 1. | Java Basics | [Link](https://areejobaid94.github.io/reading-notes/401-01) |
+| 2. | Interpreted vs Compiled Programming Languages: What's the Difference? | [Link](https://areejobaid94.github.io/reading-notes/401-prep-01) |
+| 3. | Multithreading in Java Tutorial | [Link](https://areejobaid94.github.io/reading-notes/401-prep-02) |
+| 4. | Naming Conventions | [Link](https://areejobaid94.github.io/reading-notes/401-prep-02) |
+| 5. |             | [Link]()                                                    |
+| 6. |             | [Link]()                                                    |
+| 7. |             | [Link]()                                                    |
+| 8. |             | [Link]()                                                    |
+| 9. |             | [Link]()                                                    |
+| 10.|             | [Link]()                                                    |
+| 11.|             | [Link]()                                                    |
+| 12.|             | [Link]()                                                    |
+| 13.|             | [Link]()                                                    |
+| 14.|             | [Link]()                                                    |
+| 15.|             | [Link]()                                                    |
+| 16.|             | [Link]()                                                    |
+| 17.|             | [Link]()                                                    |
+| 18.|             | [Link]()                                                    |
+| 19.|             | [Link]()                                                    |
+| 20.|             | [Link]()                                                    |
+| 21.|             | [Link]()                                                    |
+| 22.|             | [Link]()                                                    |
+| 23.|             | [Link]()                                                    |
+| 24.|             | [Link]()                                                    |
+| 25.|             | [Link]()                                                    |
+| 26.|             | [Link]()                                                    |
+| 27.|             | [Link]()                                                    |
+| 28.|             | [Link]()                                                    |
+| 29.|             | [Link]()                                                    |
+| 30.|             | [Link]()                                                    |
 
 ### Contact info:
 
