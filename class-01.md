@@ -2,20 +2,20 @@
 
 ## The Structure of the Book:
 
-| nom | Section |The content |
-| -- | --------- | ------------------- |
-| 1. | HTML | How HTML is used to create web pages | 
-| 2. | CSS | How CSS uses rules to enable you to control the styling and layout of web pages. |
-| 3. | Practical | Helpful information that will assist you in building better websites|
+| nom | Section   | The content                                                                      |
+| --- | --------- | -------------------------------------------------------------------------------- |
+| 1.  | HTML      | How HTML is used to create web pages                                             |
+| 2.  | CSS       | How CSS uses rules to enable you to control the styling and layout of web pages. |
+| 3.  | Practical | Helpful information that will assist you in building better websites             |
 
 ## How People Access the Web:
 
 #### The different ways in which people access the web and clarify some terminology are:
 
-| Browsers | Web Servers | Screen readers |
-| ------------------- | ------------------- | ------------------- |
-| A web browser Popular examples include Firefox, Internet Explorer, Safari,Chrome, and Opera. | Web servers are special computers that are constantly connected to the Internet, and are optimized to send web pages out to people who request them. | Screen readers are programs that read out the  ontents of a computer screen to a user. They are commonly used by people
-with visual impairments.|
+| Browsers                                                                                     | Web Servers                                                                                                                                          | Screen readers                                                                                                         |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| A web browser Popular examples include Firefox, Internet Explorer, Safari,Chrome, and Opera. | Web servers are special computers that are constantly connected to the Internet, and are optimized to send web pages out to people who request them. | Screen readers are programs that read out the ontents of a computer screen to a user. They are commonly used by people |
+| with visual impairments.                                                                     |
 
 ## How the Web Works:
 
@@ -28,7 +28,6 @@ with visual impairments.|
 ### HTML Uses Elements to Describe the Structure of Pages.
 
 ![](https://worldntech.weebly.com/uploads/9/1/8/9/91898570/published/screen-shot-2017-04-14-at-8-38-30-am.png?1492139484)
-
 
 ## The Evolution of HTML:
 
@@ -47,9 +46,10 @@ with visual impairments.|
 ### If you want to add a comment to your code that will not be visible in the user's browser.
 
 ### Example:
- ```
-    <!-- -->
- ```
+
+```
+   <!-- -->
+```
 
 ## ID Attribute:
 
