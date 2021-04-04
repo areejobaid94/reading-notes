@@ -60,14 +60,14 @@
 | 4.  | Naming Conventions                            | [Link](https://areejobaid94.github.io/reading-notes/401-prep-03) |
 | 5.  | Design Patterns in Java Tutorial              | [Link](https://areejobaid94.github.io/reading-notes/401-prep-04) |
 | 6.  | Design thinking                               | [Link](https://areejobaid94.github.io/reading-notes/401-prep-05) |
-| 7.  |                                               | [Link]()                                                         |
-| 8.  |                                               | [Link]()                                                         |
-| 9.  |                                               | [Link]()                                                         |
-| 10. |                                               | [Link]()                                                         |
-| 11. |                                               | [Link]()                                                         |
-| 12. |                                               | [Link]()                                                         |
-| 13. |                                               | [Link]()                                                         |
-| 14. |                                               | [Link]()                                                         |
+| 7.  | Java Collections Framework                    | [Link](https://areejobaid94.github.io/reading-notes/401-prep-06) |
+| 8.  | Java Collections Framework                    | [Link](https://areejobaid94.github.io/reading-notes/401-prep-06) |
+| 9.  | Selection sort                                | [Link](https://areejobaid94.github.io/reading-notes/401-prep-07) |
+| 10. | Selection sort                                | [Link](https://areejobaid94.github.io/reading-notes/401-prep-08) |
+| 11. | Arrays, Loops, Imports                        | [Link](https://areejobaid94.github.io/reading-notes/401-02)      |
+| 12. | Maps, primitives, File I/O                    | [Link](https://areejobaid94.github.io/reading-notes/401-03)      |
+| 13. | OOP                                           | [Link](https://areejobaid94.github.io/reading-notes/401-04)      |
+| 14. | Linked Lists                                  | [Link](https://areejobaid94.github.io/reading-notes/401-05)      |
 | 15. |                                               | [Link]()                                                         |
 | 16. |                                               | [Link]()                                                         |
 | 17. |                                               | [Link]()                                                         |
