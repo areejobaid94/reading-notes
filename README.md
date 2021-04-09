@@ -68,7 +68,7 @@
 | 12. | Maps, primitives, File I/O                    | [Link](https://areejobaid94.github.io/reading-notes/401-03)      |
 | 13. | OOP                                           | [Link](https://areejobaid94.github.io/reading-notes/401-04)      |
 | 14. | Linked Lists                                  | [Link](https://areejobaid94.github.io/reading-notes/401-05)      |
-| 15. |                                               | [Link]()                                                         |
+| 15. | Interfaces and Inheritanc                     | [Link](https://areejobaid94.github.io/reading-notes/401-06)      |
 | 16. |                                               | [Link]()                                                         |
 | 17. |                                               | [Link]()                                                         |
 | 18. |                                               | [Link]()                                                         |
