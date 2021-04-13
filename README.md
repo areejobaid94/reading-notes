@@ -70,7 +70,7 @@
 | 14. | Linked Lists                                  | [Link](https://areejobaid94.github.io/reading-notes/401-05)      |
 | 15. | Interfaces and Inheritanc                     | [Link](https://areejobaid94.github.io/reading-notes/401-06)      |
 | 16. | Read: 08 - OO Design                          | [Link](https://areejobaid94.github.io/reading-notes/401-07)      |
-| 17. |                                               | [Link]()                                                         |
+| 17. | Read: 09 - WRRC and Java                      | [Link](https://areejobaid94.github.io/reading-notes/401-08)      |
 | 18. |                                               | [Link]()                                                         |
 | 19. |                                               | [Link]()                                                         |
 | 20. |                                               | [Link]()                                                         |
