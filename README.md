@@ -74,7 +74,7 @@
 | 18. | Stacks and Queues                             | [Link](https://areejobaid94.github.io/reading-notes/401-09)      |
 | 19. | Spring Boot                                   | [Link](https://areejobaid94.github.io/reading-notes/401-11)      |
 | 20. | Spring RESTful Routing & Static Files         | [Link](https://areejobaid94.github.io/reading-notes/401-12)      |
-| 21. |                                               | [Link]()                                                         |
+| 21. | Related Resources and Integration Testing     | [Link](https://areejobaid94.github.io/reading-notes/401-13)      |
 | 22. |                                               | [Link]()                                                         |
 | 23. |                                               | [Link]()                                                         |
 | 24. |                                               | [Link]()                                                         |
