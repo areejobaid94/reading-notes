@@ -76,7 +76,7 @@
 | 20. | Spring RESTful Routing & Static Files         | [Link](https://areejobaid94.github.io/reading-notes/401-12)      |
 | 21. | Related Resources and Integration Testing     | [Link](https://areejobaid94.github.io/reading-notes/401-13)      |
 | 22. | Trees                                         | [Link](https://areejobaid94.github.io/reading-notes/401-14)      |
-| 23. |                                               | [Link]()                                                         |
+| 23. | Spring Authentication                         | [Link](https://areejobaid94.github.io/reading-notes/401-15)      |
 | 24. |                                               | [Link]()                                                         |
 | 25. |                                               | [Link]()                                                         |
 | 26. |                                               | [Link]()                                                         |
