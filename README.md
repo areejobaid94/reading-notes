@@ -77,7 +77,7 @@
 | 21. | Related Resources and Integration Testing     | [Link](https://areejobaid94.github.io/reading-notes/401-13)      |
 | 22. | Trees                                         | [Link](https://areejobaid94.github.io/reading-notes/401-14)      |
 | 23. | Spring Authentication                         | [Link](https://areejobaid94.github.io/reading-notes/401-15)      |
-| 24. |                                               | [Link]()                                                         |
+| 24. | Spring Boot and OAuth2                        | [Link](https://areejobaid94.github.io/reading-notes/401-16)      |
 | 25. |                                               | [Link]()                                                         |
 | 26. |                                               | [Link]()                                                         |
 | 27. |                                               | [Link]()                                                         |
