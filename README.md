@@ -78,7 +78,7 @@
 | 22. | Trees                                         | [Link](https://areejobaid94.github.io/reading-notes/401-14)      |
 | 23. | Spring Authentication                         | [Link](https://areejobaid94.github.io/reading-notes/401-15)      |
 | 24. | Spring Boot and OAuth2                        | [Link](https://areejobaid94.github.io/reading-notes/401-16)      |
-| 25. |                                               | [Link]()                                                         |
+| 25. | Web App Security                              | [Link](https://areejobaid94.github.io/reading-notes/401-17)      |
 | 26. |                                               | [Link]()                                                         |
 | 27. |                                               | [Link]()                                                         |
 | 28. |                                               | [Link]()                                                         |
