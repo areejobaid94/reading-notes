@@ -79,7 +79,7 @@
 | 23. | Spring Authentication                         | [Link](https://areejobaid94.github.io/reading-notes/401-15)      |
 | 24. | Spring Boot and OAuth2                        | [Link](https://areejobaid94.github.io/reading-notes/401-16)      |
 | 25. | Web App Security                              | [Link](https://areejobaid94.github.io/reading-notes/401-17)      |
-| 26. |                                               | [Link]()                                                         |
+| 26. | Spring and Sockets                            | [Link](https://areejobaid94.github.io/reading-notes/401-18)      |
 | 27. |                                               | [Link]()                                                         |
 | 28. |                                               | [Link]()                                                         |
 | 29. |                                               | [Link]()                                                         |
