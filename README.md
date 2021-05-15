@@ -80,7 +80,7 @@
 | 24. | Spring Boot and OAuth2                        | [Link](https://areejobaid94.github.io/reading-notes/401-16)      |
 | 25. | Web App Security                              | [Link](https://areejobaid94.github.io/reading-notes/401-17)      |
 | 26. | Spring and Sockets                            | [Link](https://areejobaid94.github.io/reading-notes/401-18)      |
-| 27. |                                               | [Link]()                                                         |
+| 27. | Android Fundamentals                          | [Link](https://areejobaid94.github.io/reading-notes/401-26)      |
 | 28. |                                               | [Link]()                                                         |
 | 29. |                                               | [Link]()                                                         |
 | 30. |                                               | [Link]()                                                         |
