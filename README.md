@@ -82,7 +82,7 @@
 | 26. | Spring and Sockets                            | [Link](https://areejobaid94.github.io/reading-notes/401-18)      |
 | 27. | Android Fundamentals                          | [Link](https://areejobaid94.github.io/reading-notes/401-26)      |
 | 28. | Room                                          | [Link](https://areejobaid94.github.io/reading-notes/401-29)      |
-| 29. |                                               | [Link]()                                                         |
+| 29. | Hash Tables                                   | [Link](https://areejobaid94.github.io/reading-notes/401-30)      |
 | 30. |                                               | [Link]()                                                         |
 
 ### Contact info:
