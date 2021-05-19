@@ -83,7 +83,7 @@
 | 27. | Android Fundamentals                          | [Link](https://areejobaid94.github.io/reading-notes/401-26)      |
 | 28. | Room                                          | [Link](https://areejobaid94.github.io/reading-notes/401-29)      |
 | 29. | Hash Tables                                   | [Link](https://areejobaid94.github.io/reading-notes/401-30)      |
-| 30. |                                               | [Link]()                                                         |
+| 30. | RecyclerView                                  | [Link](https://areejobaid94.github.io/reading-notes/401-28)      |
 
 ### Contact info:
 
