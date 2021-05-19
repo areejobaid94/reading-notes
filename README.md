@@ -81,7 +81,7 @@
 | 25. | Web App Security                              | [Link](https://areejobaid94.github.io/reading-notes/401-17)      |
 | 26. | Spring and Sockets                            | [Link](https://areejobaid94.github.io/reading-notes/401-18)      |
 | 27. | Android Fundamentals                          | [Link](https://areejobaid94.github.io/reading-notes/401-26)      |
-| 28. | Room                                          | [Link](https://areejobaid94.github.io/reading-notes/401-29)|
+| 28. | Room                                          | [Link](https://areejobaid94.github.io/reading-notes/401-29)      |
 | 29. |                                               | [Link]()                                                         |
 | 30. |                                               | [Link]()                                                         |
 
