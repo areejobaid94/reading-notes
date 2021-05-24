@@ -87,6 +87,7 @@
 | 31. | Intents, Activities, and SharedPreferences    | [Link](https://areejobaid94.github.io/reading-notes/401-27)      |
 | 32. | Espresso                                      | [Link](https://areejobaid94.github.io/reading-notes/401-31)      |
 | 33. | Serverless and Amplify                        | [Link](https://areejobaid94.github.io/reading-notes/401-32)      |
+| 34. | GraphQL @connection                           | [Link](https://areejobaid94.github.io/reading-notes/401-33)      |
 
 ### Contact info:
 
