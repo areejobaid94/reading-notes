@@ -88,7 +88,9 @@
 | 32. | Espresso                                      | [Link](https://areejobaid94.github.io/reading-notes/401-31)      |
 | 33. | Serverless and Amplify                        | [Link](https://areejobaid94.github.io/reading-notes/401-32)      |
 | 34. | GraphQL @connection                           | [Link](https://areejobaid94.github.io/reading-notes/401-33)      |
-| 35. |Graph                                          | [Link](https://areejobaid94.github.io/reading-notes/401-34)      |
+| 35. | Graph                                         | [Link](https://areejobaid94.github.io/reading-notes/401-34)      |
+| 36. | Amplify and Cognito                           | [Link](https://areejobaid94.github.io/reading-notes/401-36)      |
+
 
 ### Contact info:
 
