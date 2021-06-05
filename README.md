@@ -91,6 +91,7 @@
 | 35. | Graph                                         | [Link](https://areejobaid94.github.io/reading-notes/401-34)      |
 | 36. | Amplify and Cognito                           | [Link](https://areejobaid94.github.io/reading-notes/401-36)      |
 | 37. |  S3                                           | [Link](https://areejobaid94.github.io/reading-notes/401-37)      |
+| 38. | Notifications                                 | [Link](https://areejobaid94.github.io/reading-notes/401-38)      |
 
 ### Contact info:
 
