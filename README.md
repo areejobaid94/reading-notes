@@ -94,6 +94,8 @@
 | 38. | Notifications                                 | [Link](https://areejobaid94.github.io/reading-notes/401-38)      |
 | 39. | Intent Filters                                | [Link](https://areejobaid94.github.io/reading-notes/401-39)      |
 | 40. | Location                                      | [Link](https://areejobaid94.github.io/reading-notes/401-40)      |
+| 40. | Ethics in Tech                                | [Link](https://areejobaid94.github.io/reading-notes/401-42)      |
+
 
 ### Contact info:
 
